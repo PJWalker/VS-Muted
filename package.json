@@ -1,0 +1,22 @@
+{
+    "name": "vs-muted",
+    "displayName": "VS Muted",
+    "description": "A light VSCode colour theme; which keeps similar associations to the default, but loses the #FF0000 and #0000FFs",
+    "version": "1.0.0",
+    "publisher": "PJWalker",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VS Muted",
+                "uiTheme": "vs",
+                "path": "./themes/VSMuted-color-theme.json"
+            }
+        ]
+    }
+}
