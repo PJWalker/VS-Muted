@@ -10,7 +10,7 @@
     "author": {
         "name": "Paul J Walker"
     },
-    "icon": "./icon.png",
+    "icon": "icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/PJWalker/VS-Muted.git"
