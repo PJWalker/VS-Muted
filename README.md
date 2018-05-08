@@ -1,8 +1,10 @@
 # VS-Muted
 
-![screenshot -- editor typeface is Input Mono](./screenshot.png)
-
 A basic light-colored theme, with mostly muted colours and with borders between sections to match macOS styling.
+
+![screenshot](./screenshot.png)
+
+VS-Muted + Input Mono.
 
 ## License
 
