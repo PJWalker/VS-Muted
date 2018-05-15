@@ -25,8 +25,8 @@
 		"activityBar.border": "#0003",
 		"editorGroup.border": "#0003",
 		"editorGroupHeader.tabsBorder": "#0003",
-		"editorIndentGuide.activeBackground": "#0003",
-		"editorIndentGuide.background": "#0003",
+		"editorIndentGuide.activeBackground": "#0006",
+		"editorIndentGuide.background": "#0002",
 		"list.hoverBackground": "#0003",
 		"notificationToast.border": "#0003",
 		"scrollbarSlider.background": "#0003",
@@ -71,7 +71,16 @@
 		"editorGutter.deletedBackground": "#c15",
 		"editorGutter.modifiedBackground": "#ea1",
 		"statusBar.debuggingBackground": "#ea1",
-		"statusBar.debuggingForeground": "#642"
+		"statusBar.debuggingForeground": "#642",
+		//Terminal
+		"terminal.ansiBlack": "#000",
+		"terminal.foreground": "#222",
+		"terminal.ansiRed": "#c54832",
+		"terminal.ansiYellow": "#ad6c22",
+		"terminal.ansiGreen": "#538020",
+		"terminal.ansiBlue": "#4029b3",
+		"terminal.ansiCyan": "#006d8b",
+		"terminal.ansiMagenta": "#942d72"
 	},
 	"tokenColors": [
 		{
